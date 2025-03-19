@@ -1,0 +1,40 @@
+# cycpd==0.25
+# h5py==3.11.0
+# keras==2.13.1
+# numpy>=1.22.0,<1.25.0
+# open3d==0.16.0
+# opencv-contrib-python==4.6.0.66
+# opencv-python==4.6.0.66
+# pandas==1.4.3
+# ray==2.3.0 
+# scikit-image==0.19.3
+# scikit-learn==1.1.1
+# scikit-optimize==0.9.0
+# scipy==1.8.1
+# Shapely==1.8.5.post1
+# tensorflow-addons==0.16.1
+# tensorflow==2.13.0
+# trimesh==3.15.5
+# matplotlib==3.7.5
+# psutil==5.9.0
+cycpd==0.25
+h5py==3.11.0
+keras==2.13.1
+numpy==1.24.3
+open3d==0.16.0
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+pandas==1.4.3
+ray==2.3.0
+scikit-image==0.19.3
+scikit-learn==1.1.1
+scikit-optimize==0.9.0
+scipy==1.8.1
+Shapely==1.8.5.post1
+tensorflow-addons==0.16.1
+tensorflow==2.13.0
+trimesh==3.15.5
+matplotlib==3.7.5
+psutil==5.9.0
+typing-extensions==4.5.0
+dash>=2.0.0

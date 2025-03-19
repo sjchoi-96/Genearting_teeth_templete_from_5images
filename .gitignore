@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.mat
+.pre-commit-config.yaml
+py3.8_ai_env/
+._pycache/
