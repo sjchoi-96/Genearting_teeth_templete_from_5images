@@ -4,5 +4,4 @@ __pycache__/
 *$py.class
 *.mat
 .pre-commit-config.yaml
-py3.8_ai_env/
-._pycache/
+py3.8.10_ai_env/

@@ -1,0 +1,250 @@
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 377ms/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 152ms/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 161ms/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 156ms/step
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 0s 154ms/step
+----------------------------------------------------------------------------------------------------
+Start optimization.
+----------------------------------------------------------------------------------------------------
+Start Grid Search.
+rela.t.z 0
+rela.t.z 3
+rela.t.z 6
+rela.t.z 0
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 837 - E-step loss: 6.49
+rela.t.z 3
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 855 - E-step loss: 8.57
+rela.t.z 6
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 740 - E-step loss: 21.69
+rela.t.z 0
+Best param guess:  0
+Estimate camera params of  PHOTO.FRONTAL
+--------------------------------------------------
+PHOTO.UPPER r.x [1.8849558 2.042035  2.1991148 2.3561945 2.5132742]
+Estimate camera params of  PHOTO.UPPER
+PHOTO.UPPER - unique pred points: 766 - E-step loss: 4.20
+Estimate camera params of  PHOTO.UPPER
+PHOTO.UPPER - unique pred points: 686 - E-step loss: 6.65
+Estimate camera params of  PHOTO.UPPER
+PHOTO.UPPER - unique pred points: 585 - E-step loss: 20.59
+Estimate camera params of  PHOTO.UPPER
+PHOTO.UPPER - unique pred points: 524 - E-step loss: 26.58
+Estimate camera params of  PHOTO.UPPER
+PHOTO.UPPER - unique pred points: 470 - E-step loss: 45.27
+Best param guess:  1.8849558
+Estimate camera params of  PHOTO.UPPER
+--------------------------------------------------
+PHOTO.LOWER r.x [-1.8849558 -2.042035  -2.1991148 -2.3561945 -2.5132742]
+Estimate camera params of  PHOTO.LOWER
+PHOTO.LOWER - unique pred points: 746 - E-step loss: 12.18
+Estimate camera params of  PHOTO.LOWER
+PHOTO.LOWER - unique pred points: 685 - E-step loss: 16.79
+Estimate camera params of  PHOTO.LOWER
+PHOTO.LOWER - unique pred points: 579 - E-step loss: 23.02
+Estimate camera params of  PHOTO.LOWER
+PHOTO.LOWER - unique pred points: 551 - E-step loss: 34.93
+Estimate camera params of  PHOTO.LOWER
+PHOTO.LOWER - unique pred points: 468 - E-step loss: 51.31
+Best param guess:  -1.8849558
+Estimate camera params of  PHOTO.LOWER
+--------------------------------------------------
+PHOTO.LEFT r.xyz [[ 3.11  0.   -0.49]
+ [ 3.05  0.   -0.73]
+ [ 2.99  0.   -0.97]
+ [ 2.9   0.   -1.2 ]
+ [ 2.8   0.   -1.43]]
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 565 - E-step loss: 52.64
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 606 - E-step loss: 19.33
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 651 - E-step loss: 16.66
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 578 - E-step loss: 27.30
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 513 - E-step loss: 37.15
+Best param guess:  [ 2.99  0.   -0.97]
+Estimate camera params of  PHOTO.LEFT
+--------------------------------------------------
+PHOTO.RIGHT r.xyz [[3.11 0.   0.49]
+ [3.05 0.   0.73]
+ [2.99 0.   0.97]
+ [2.9  0.   1.2 ]
+ [2.8  0.   1.43]]
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 680 - E-step loss: 26.16
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 750 - E-step loss: 16.30
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 537 - E-step loss: 55.29
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 644 - E-step loss: 29.35
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 682 - E-step loss: 25.88
+Best param guess:  [3.05 0.   0.73]
+Estimate camera params of  PHOTO.RIGHT
+--------------------------------------------------
+PHOTO.FRONTAL r.x [3.0787609 3.1415927 3.2044246]
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 865 - E-step loss: 6.32
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 837 - E-step loss: 6.49
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 831 - E-step loss: 7.73
+Best param guess:  3.0787609
+Estimate camera params of  PHOTO.FRONTAL
+--------------------------------------------------
+rela.t.z -3.0
+rela.t.z -2.0
+rela.t.z -1.0
+rela.t.z 0.0
+rela.t.z 1.0
+rela.t.z 2.0
+rela.t.z 3.0
+rela.t.z -3.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 619 - E-step loss: 19.02
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 713 - E-step loss: 22.00
+rela.t.z -2.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 666 - E-step loss: 17.72
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 704 - E-step loss: 19.35
+rela.t.z -1.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 680 - E-step loss: 16.00
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 716 - E-step loss: 18.06
+rela.t.z 0.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 651 - E-step loss: 16.66
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 750 - E-step loss: 16.30
+rela.t.z 1.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 637 - E-step loss: 17.21
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 714 - E-step loss: 16.80
+rela.t.z 2.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 649 - E-step loss: 17.02
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 733 - E-step loss: 17.00
+rela.t.z 3.0
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 608 - E-step loss: 20.96
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 554 - E-step loss: 54.09
+rela.t.z 0.0
+Best param guess:  0.0
+Estimate camera params of  PHOTO.LEFT
+Estimate camera params of  PHOTO.RIGHT
+--------------------------------------------------
+rela.t.y -7
+rela.t.y -6
+rela.t.y -5
+rela.t.y -4
+rela.t.y -7
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 701 - E-step loss: 16.17
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 617 - E-step loss: 32.59
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 921 - E-step loss: 9.18
+rela.t.y -6
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 658 - E-step loss: 14.90
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 603 - E-step loss: 43.86
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 896 - E-step loss: 6.92
+rela.t.y -5
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 651 - E-step loss: 16.66
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 750 - E-step loss: 16.30
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 865 - E-step loss: 6.32
+rela.t.y -4
+Estimate camera params of  PHOTO.LEFT
+PHOTO.LEFT - unique pred points: 628 - E-step loss: 21.05
+Estimate camera params of  PHOTO.RIGHT
+PHOTO.RIGHT - unique pred points: 686 - E-step loss: 18.87
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 861 - E-step loss: 8.22
+rela.t.y -5
+Best param guess:  -5
+Estimate camera params of  PHOTO.LEFT
+Estimate camera params of  PHOTO.RIGHT
+Estimate camera params of  PHOTO.FRONTAL
+--------------------------------------------------
+rela.t.x -1.0
+rela.t.x 0.0
+rela.t.x 1.0
+rela.t.x -1.0
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 801 - E-step loss: 10.07
+rela.t.x 0.0
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 865 - E-step loss: 6.32
+rela.t.x 1.0
+Estimate camera params of  PHOTO.FRONTAL
+PHOTO.FRONTAL - unique pred points: 854 - E-step loss: 6.84
+rela.t.x 0.0
+Best param guess:  0.0
+Estimate camera params of  PHOTO.FRONTAL
+--------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Start Stage 0.
+M-step loss: 888.4028
+Sum of expectation step loss: 36.9589
+M-step loss: 852.0693
+Sum of expectation step loss: 36.1362
+M-step loss: 867.0939
+Sum of expectation step loss: 35.7504
+M-step loss: 862.9297
+Sum of expectation step loss: 35.7504
+M-step loss: 862.9316
+Sum of expectation step loss: 35.7504
+M-step loss: 862.9316
+Sum of expectation step loss: 35.7495
+M-step loss: 862.9486
+Sum of expectation step loss: 35.7495
+M-step loss: 862.9486
+Sum of expectation step loss: 35.7495
+Early stop with last 3 e-step loss 35.7495, 35.7495, 35.7495
+----------------------------------------------------------------------------------------------------
+Start Stage 1.
+M-step loss: 813.9212
+Sum of expectation step loss: 33.3666
+M-step loss: 786.4308
+Sum of expectation step loss: 49.0389
+Early stop with last 3 e-step loss 35.7495, 33.3666, 49.0389
+Accept Stage 1.
+emopt.rowScaleXZ:  [0.95527898 1.00088532]
+approx tooth scale:  0.9851556391290531
+----------------------------------------------------------------------------------------------------
+Start Stage 2 and 3.
+M-step loss: 800.4903
+Sum of expectation step loss: 26.9058
+M-step loss: 600.0776
+Sum of expectation step loss: 25.4297
+M-step loss: 591.5014
+Sum of expectation step loss: 25.6013
+M-step loss: 601.6597
+Sum of expectation step loss: 25.7192
+Early stop with last 3 e-step loss 25.4297, 25.6013, 25.7192
